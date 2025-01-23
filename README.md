@@ -37,3 +37,8 @@ An optional directory for additional source files (if applicable).
    ```bash
    git clone https://github.com/saadfahmi/graphic.git
    cd graphic
+   code .
+   gcc graphic.c
+   ./a.exe
+   
+   
